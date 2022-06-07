@@ -1,0 +1,29 @@
+body{
+    font-size: 62.5%;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    
+    
+}
+h3{
+    font-size: 3rem;
+}
+.joke{
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+}
+.btn{
+    padding:10px 20px;
+    border: 2px solid sandybrown;
+    border-radius: 1rem;
+    font-size: 1.7rem;
+
+}
+.btn:hover{
+    color: white;
+}
